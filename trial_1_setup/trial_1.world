@@ -10,7 +10,7 @@
     <include>
       <uri>model://sun</uri>
     </include>
-<!-- -------------------------Roads------------------------ -->
+<!-- -Roads -->
    <include>
       <uri>asphalt_road</uri>      
       <name>road1</name>
@@ -34,7 +34,7 @@
       <name>road4</name>
       <pose>-3.5 5.43 0 0 -0 0</pose>
     </include>
-<!-- -------------------------Buildings Block 1------------------------ -->
+<!-- -Buildings Block 1 -->
 
  <include>
       <uri>law_office</uri>      
@@ -72,7 +72,7 @@
 <pose>-0.92 3.08 0.0 0 0 0</pose>
     </include>
 
-<!-- -------------------------Buildings Block 2------------------------ -->
+<!-- -Buildings Block 2 -->
 
 
 <include>
@@ -105,7 +105,7 @@
 <pose>-5.23 3.808 0.0 0 0 0</pose>
     </include>
 
-<!-- -------------------------Buildings Block 3------------------------ -->
+<!-- -Buildings Block 3 -->
 
  <include>
       <uri>law_office</uri>      
@@ -125,7 +125,7 @@
 <pose>-1.85 13.22 0.0 0 0 0</pose>
     </include>
 
-<!-- -------------------------Buildings Block 4------------------------ -->
+<!-- -Buildings Block 4 -->
 
  <include>
       <uri>law_office</uri>      
@@ -145,7 +145,7 @@
 <pose>5.16 8.29 0.0 0 0 0</pose>
     </include>
 
-<!-- -------------------------Rover------------------------ -->
+<!-- -Rover -->
    <include>
       <uri>rover</uri>      
       <name>rover</name>
